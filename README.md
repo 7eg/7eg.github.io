@@ -1,6 +1,6 @@
 # `PretiyfiyBot Project`
 
 
-# Introduction
+## Introduction
 
 ### The bot is intended to create beautiful tweets 
