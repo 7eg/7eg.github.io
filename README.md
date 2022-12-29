@@ -1,1 +1,1 @@
-# 7eg.hithub.io
+# PretiyfiyBot Project
