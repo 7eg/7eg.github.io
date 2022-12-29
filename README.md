@@ -1,3 +1,6 @@
 # `PretiyfiyBot Project`
-## this is test website 
-theme: Architect
+
+
+# Introduction
+
+### The bot is intended to create beautiful tweets 
